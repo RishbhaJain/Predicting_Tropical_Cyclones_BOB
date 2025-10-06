@@ -1,0 +1,1 @@
+url_grid="http://dap.ceda.ac.uk/thredds/dodsC/badc/cmip5/data/cmip5/output1/NCAR/CCSM4/rcp26/mon/atmos/Amon/r1i1p1/latest/psl/psl_Amon_CCSM4_rcp26_r1i1p1_200601-210012.nc?time[0:1:1139],psl[14:00][5:24][78:95]"
